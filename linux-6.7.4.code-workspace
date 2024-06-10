@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"C_Cpp.default.forcedInclude": [
+			"include"
+		],
+		"files.associations": {
+			"fcntl.h": "c",
+			"string.h": "c",
+			"kernel_read_file.h": "c",
+			"file.h": "c",
+			"binfmts.h": "c",
+			"processor.h": "c",
+			"cache.h": "c",
+			"sys.h": "c",
+			"syscalls.h": "c",
+			"dynamic_sys_call_table.h": "c",
+			"typeinfo": "c",
+			"syscall.h": "c",
+			"atomic.h": "c",
+			"kallsyms.h": "c",
+			"vmalloc.h": "c",
+			"task.h": "c",
+			"rseq.h": "c",
+			"kernel.h": "c",
+			"slab.h": "c",
+			"prctl.h": "c",
+			"printk.h": "c",
+			"ptrace.h": "c"
+		},
+		"C_Cpp.default.includePath": [
+			"include"
+		]
+	}
+}
